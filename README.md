@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Taishi-N324&show_icons=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Taishi-N324&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Taishi-N324&show_icons=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Taishi-N324&theme=tokyonight" width="48%" >
 
 
 ##
