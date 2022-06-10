@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<img  src="https://activity-graph.herokuapp.com/graph?username=Taishi-N324&theme=react-dark&area=true" width="100%"  />
+<img  src="https://activity-graph.herokuapp.com/graph?username=Taishi-N324&theme=react-bleu&area=true" width="100%"  />
 
 ##
 
