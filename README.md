@@ -18,3 +18,6 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Taishi-N324&theme=react" width="48%" >
 
 ##
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+
+##
