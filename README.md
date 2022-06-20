@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://github-readme-stats.vercel.app/api?username=Taishi-N324&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Taishi-N324&theme=tokyonight" width="48%" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taishi-N324&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taishi-N324&layout=compacte&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
