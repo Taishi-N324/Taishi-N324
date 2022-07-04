@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Taishi-N324
 - 👀 I’m interested in Machine learning
 
+- 🤳 https://www.instagram.com/taishi_nnnn/
+
 
 <!---
 Taishi-N324/Taishi-N324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
