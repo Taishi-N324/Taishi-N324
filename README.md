@@ -1,6 +1,7 @@
 Hi 👋 My name is Taishi
 ========================
 👀 I’m interested in Machine learning
+✉️ You can contact me at 
 
 <h3>Connect with me:</h3>
 
