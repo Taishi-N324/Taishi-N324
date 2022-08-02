@@ -2,14 +2,12 @@ Hi 👋 My name is Taishi
 ========================
 👀 I’m interested in Machine learning
 
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
-<p align="center">
 <a href="https://twitter.com/Setuna7777_2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/taishinnnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Taishi-N324" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/taishi_nnnn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-</p>
 
 
 
