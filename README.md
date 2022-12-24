@@ -16,7 +16,7 @@ Taishi-N324/Taishi-N324 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!-- 
 ##
 
 <img  src="https://activity-graph.herokuapp.com/graph?username=Taishi-N324&bg_color=d1e3ff&color=4c689e&line=624c9e&point=3e3f41&area=true&hide_border=true" width="100%"  />
@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taishi-N324&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taishi-N324&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
